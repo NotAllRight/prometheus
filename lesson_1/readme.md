@@ -144,6 +144,7 @@
 <!DOCTYPE html><html><head><meta charset="UTF-8" /><title>Вивчаємо HTML</title>
  </head>
  <body>
+
     <ol>
       <li><ul>
           <li>Текст</li>
@@ -173,12 +174,14 @@
 <!DOCTYPE html><html><head><meta charset="UTF-8" /><title>Вивчаємо HTML</title>
 </head>
 <body>
+
     <form>
       <input type="text" placeholder="Логін">
       <input type="password" placeholder="Пароль">
       <textarea placeholder="Ваше повідомлення"></textarea>
       <input type="submit" value="Надіслати">
     </form>
+
 </body>
 </html>
 ```
@@ -285,13 +288,15 @@ HTML - жирним, але не ```<b>```<br>
 <!DOCTYPE html><html><head><meta charset="UTF-8" /><title>Вивчаємо HTML</title>
  </head>
  <body>
+
   <pre>
      function toCelsius(fahrenheit) {
      return (5/9) * (fahrenheit-32);
      }
      document.getElementById("demo").innerHTML = toCelsius;
   </pre>
-  </body>
+
+ </body>
 </html>
 ```
 
@@ -316,13 +321,13 @@ CSS
  </head>
  <body>
  
-       <dl>
-           <dt>HTML</dt>
-           <dd>Стандартна мова розмітки веб-сторінок в Інтернеті. Більшість веб-сторінок створюються за допомогою мови HTML. Документ HTML оброблюється браузером та відтворюється на екрані у звичному для людини вигляді.</dd>
-       
-           <dt>CSS</dt>
-           <dd>Спеціальна мова, що використовується для опису сторінок, написаних мовами розмітки даних.</dd>
-       </dl>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Стандартна мова розмітки веб-сторінок в Інтернеті. Більшість веб-сторінок створюються за допомогою мови HTML. Документ HTML оброблюється браузером та відтворюється на екрані у звичному для людини вигляді.</dd>
+    
+        <dt>CSS</dt>
+        <dd>Спеціальна мова, що використовується для опису сторінок, написаних мовами розмітки даних.</dd>
+    </dl>
  
  </body>
 </html>
