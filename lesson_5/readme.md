@@ -32,11 +32,9 @@ otherSenseOfLife. Якщо параметр передати, то функці�
 let senseOfLife = 42;
 
 function showVariable (otherSenseOfLife) {
-
     if (otherSenseOfLife !== undefined) {
         return otherSenseOfLife;
     }
-
     return senseOfLife;
 }
 ```
