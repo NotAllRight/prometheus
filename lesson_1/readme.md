@@ -8,16 +8,16 @@
 
 <b>Рішення:</b>
 ```HTML
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="UTF-8" />
-    
-    <title>Вивчаємо HTML</title>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
 
-    </head>
-    <body></body>
-    </html>
+<title>Вивчаємо HTML</title>
+
+</head>
+<body></body>
+</html>
 ```	
 
 
